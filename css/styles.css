@@ -1,0 +1,52 @@
+body {
+  background-color: darkgray;
+}
+
+h1 {
+  background-image: url('https://media.istockphoto.com/photos/background-blue-gradient-abstract-picture-id910021106?k=6&m=910021106&s=612x612&w=0&h=dJ1HiBOr6KTiE5c1odNULI8MbYdpDSZAZD_uS_NEGHQ=');
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  opacity: 0.5;
+}
+
+h2 {
+  text-align: center;
+}
+
+.paragraph p {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+  text-align: justify;
+}
+
+img {
+  display: block;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border: 5px solid gray;
+}
+
+.footer-one {
+  float: left;
+  font-size: 10pt;
+}
+
+.footer-two {
+  float: right; 
+  font-size: 10pt;
+}
+
+.list-style ul {
+  display: table;
+  margin: 0 auto;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+}
